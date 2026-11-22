@@ -1,4 +1,4 @@
-# VKs-team-colors
+# Team Color IDs
 | ID | Color | ID | Color | ID | Color |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 0 | ![](https://dummyimage.com/40x20/778898/778898) | 7 | ![](https://dummyimage.com/40x20/FF1494/FF1494) | 14 | ![](https://dummyimage.com/40x20/566B30/566B30) |
@@ -8,3 +8,6 @@
 | 4 | ![](https://dummyimage.com/40x20/FFD720/FFD720) | 11 | ![](https://dummyimage.com/40x20/F0E78C/F0E78C) | 18 | ![](https://dummyimage.com/40x20/00BFFF/00BFFF) |
 | 5 | ![](https://dummyimage.com/40x20/DC143C/DC143C) | 12 | ![](https://dummyimage.com/40x20/148A8A/148A8A) | 19+ | ![](https://dummyimage.com/40x20/D4D4D4/D4D4D4) |
 | 6 | ![](https://dummyimage.com/40x20/638BEC/638BEC) | 13 | ![](https://dummyimage.com/40x20/14FF7F/14FF7F) | | |
+
+# HTML Image
+<img width="315" height="221" alt="team colors" src="https://github.com/user-attachments/assets/967d5928-2b33-4742-b1fe-35357af01c66" />
